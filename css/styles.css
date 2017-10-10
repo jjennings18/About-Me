@@ -4,7 +4,9 @@ body {
     text-align: center;
 }
 
-p {
+#about-text {
     background: #a90f13;
     padding: 10px;
+    color: #fffded;
+    font-family: sans-serif;
 }
